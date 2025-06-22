@@ -80,19 +80,19 @@ Knowing the colors and fonts helps you match your code to the design exactly, so
 
 We plan to build these reusable components:
 
-### 🔹 Navbar
+ 🔹 Navbar
 - Site logo
 - Search bar
 - User account menu
 - Mobile-responsive layout
 
-### 🔹 Property Card
+ 🔹 Property Card
 - Image of the property
 - Basic info (price, location, rating)
 - “Favorite” heart icon
 - Clickable to open the details page
 
-### 🔹 Footer
+ 🔹 Footer
 - Links to About, Help, Terms
 - Social media icons
 - Copyright info
