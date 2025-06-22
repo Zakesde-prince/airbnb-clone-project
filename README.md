@@ -62,3 +62,16 @@ A smooth, clean design helps users quickly find what they want and complete book
 ### 💬 Why Design Properties Matter
 
 Knowing the colors and fonts helps you match your code to the design exactly, so the site feels consistent and professional.
+
+## Project Roles and Responsibilities
+
+| Role              | Responsibilities |
+|-------------------|------------------|
+| **Project Manager** | Keeps the team organized, sets deadlines |
+| **Frontend Developer** | Builds the visual parts (HTML, CSS, JS) |
+| **Backend Developer** | Manages server, data, and logic |
+| **Designer** | Designs how the site should look in Figma |
+| **QA Tester** | Checks for bugs and broken parts |
+| **DevOps Engineer** | Makes sure the app runs online (hosting) |
+| **Product Owner** | Represents what users want, sets project goals |
+| **Scrum Master** | Keeps the team following the agile process |
