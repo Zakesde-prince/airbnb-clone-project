@@ -15,8 +15,6 @@ This is a clone of the Airbnb platform, built as a full-stack web application. T
 - **Design**: Figma for UI/UX mockups
 - **Backend (later)**: APIs and database logic
 
-## UI/UX Design Planning
-
 ### Design Goals
 - Create a simple, easy-to-use interface
 - Fast loading and mobile-friendly
