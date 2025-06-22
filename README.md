@@ -39,3 +39,26 @@ This is a clone of the Airbnb platform, built as a full-stack web application. T
 ### ⭐ Why User-Friendly Design Matters
 
 A smooth, clean design helps users quickly find what they want and complete bookings without confusion. This leads to more trust and happy users.
+### 🎨 Color Styles
+
+- **Primary Color**: `#FF5A5F` (used for buttons, highlights)
+- **Secondary Color**: `#008489`
+- **Background**: `#FFFFFF` (white)
+- **Text Color**: `#222222` (main text)
+- **Secondary Text**: `#717171`
+
+### 🖋️ Typography
+
+- **Font Family**: Circular
+- **Font Weights**:
+  - Book (400)
+  - Medium (500)
+  - Bold (700)
+- **Font Sizes**:
+  - 14px – small text
+  - 16px – body text
+  - 24px–32px – headings
+
+### 💬 Why Design Properties Matter
+
+Knowing the colors and fonts helps you match your code to the design exactly, so the site feels consistent and professional.
