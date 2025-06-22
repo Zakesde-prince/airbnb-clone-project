@@ -17,18 +17,18 @@ This is a clone of the Airbnb platform, built as a full-stack web application. T
 
 ## UI/UX Design Planning
 
-### 🎯 Design Goals
+### Design Goals
 - Create a simple, easy-to-use interface
 - Fast loading and mobile-friendly
 - Smooth booking process for users
 
-### 💡 Key Features
+###  Key Features
 - Property search and filters
 - View property details with images
 - Book and pay securely
 - User sign-up and login
 
-### 📄 Primary Pages
+###  Primary Pages
 
 | Page                  | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ This is a clone of the Airbnb platform, built as a full-stack web application. T
 ### ⭐ Why User-Friendly Design Matters
 
 A smooth, clean design helps users quickly find what they want and complete bookings without confusion. This leads to more trust and happy users.
-### 🎨 Color Styles
+###  Color Styles
 
 - **Primary Color**: `#FF5A5F` (used for buttons, highlights)
 - **Secondary Color**: `#008489`
@@ -47,7 +47,7 @@ A smooth, clean design helps users quickly find what they want and complete book
 - **Text Color**: `#222222` (main text)
 - **Secondary Text**: `#717171`
 
-### 🖋️ Typography
+###  Typography
 
 - **Font Family**: Circular
 - **Font Weights**:
@@ -59,7 +59,7 @@ A smooth, clean design helps users quickly find what they want and complete book
   - 16px – body text
   - 24px–32px – headings
 
-### 💬 Why Design Properties Matter
+### Why Design Properties Matter
 
 Knowing the colors and fonts helps you match your code to the design exactly, so the site feels consistent and professional.
 
