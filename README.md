@@ -75,3 +75,26 @@ Knowing the colors and fonts helps you match your code to the design exactly, so
 | **DevOps Engineer** | Makes sure the app runs online (hosting) |
 | **Product Owner** | Represents what users want, sets project goals |
 | **Scrum Master** | Keeps the team following the agile process |
+
+## UI Component Patterns
+
+We plan to build these reusable components:
+
+### 🔹 Navbar
+- Site logo
+- Search bar
+- User account menu
+- Mobile-responsive layout
+
+### 🔹 Property Card
+- Image of the property
+- Basic info (price, location, rating)
+- “Favorite” heart icon
+- Clickable to open the details page
+
+### 🔹 Footer
+- Links to About, Help, Terms
+- Social media icons
+- Copyright info
+
+All components will be styled consistently using the color and typography from the Figma design.
